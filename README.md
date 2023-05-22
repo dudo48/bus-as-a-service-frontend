@@ -1,5 +1,7 @@
 # Bus as a Service
 
+![BaaS Screenshot](/images/image-1.png)
+
 ## Description
 Bus as a Service is a website which allows organizations,
 firms, schools and universities to create and manage
